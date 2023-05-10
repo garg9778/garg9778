@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3o7bu9HvCRRp7MjpT2/giphy.gif" width="300"/>
+  <img src="https://github.com/garg9778/garg9778/blob/main/scaler-create-impact.gif" width="500"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/addit-anwar/">
+  <a href="https://www.linkedin.com/in/garg9778/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
   <a target="_blank" rel="noopener noreferrer" href="https://additanwar.github.io/" width="150">
     <img src="https://img.shields.io/badge/blog-personal%20website-SteelBlue?style=flat-square&logo=bitdefender&logoColor=black&link=https://additanwar.github.io/" width="150">
