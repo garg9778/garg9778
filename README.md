@@ -47,5 +47,5 @@ I am a data enthusiast passionate about presenting creative solutions to complex
 --- 
 
 ### 🔥 Some Stats
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=garg9778&theme=tokyonight&background=000000)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=garg9778&theme=vue&background=000000)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=garg9778&show_icons=true&theme=tokyonight)
