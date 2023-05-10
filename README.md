@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/garg9778/">
-    <img src="https://github.com/garg9778/garg9778/blob/main/linkedin.png" alt="LinkedIn Badge" width="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Badge" width="30"/>
   <a target="_blank" rel="noopener noreferrer" href="https://garg9778.github.io/" width="30">
     <img src="https://github.com/garg9778/garg9778/blob/main/portfolio.png" width="30">
 </a>
